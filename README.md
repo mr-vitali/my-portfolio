@@ -1,4 +1,4 @@
-# Korben, Mr. Vitali
+ # Korben, Mr. Vitali
 
 I build things. I won't be using AI to write this out.
 
@@ -9,6 +9,11 @@ I believe that in the next 5 years the workforce will be dominated by autonomous
 Here's some of my past projects:
 
 ## PC organization assistant:
+
+![Screenshot_2025-03-29_130312](https://github.com/user-attachments/assets/43a1f452-1d3e-4f26-8412-40e0cd35ad30)
+![Screenshot_2025-03-29_130456](https://github.com/user-attachments/assets/2d651d27-039d-45ea-88b2-2fb9b99fa1ea)
+![Screenshot_2025-03-29_125319](https://github.com/user-attachments/assets/c938c275-2fec-47b6-900b-d593e61e5be3)
+
 
 A buddy of mine isn't computer savvy, so we made his computer talk. He could open up a conversational model that could scan and remember every file in his computer, so he could ask questions like 'Where is my resume?' or 'How many productive apps do I have and which are the best?'.
 
